@@ -12,7 +12,7 @@ The Face Tattoo AR app uses the TrueDepth API to get a map of the user's face ge
 
 None of the data/information collected by the TrueDepth API is saved or stored except (except for when the app is running, the data will need to be stored in the user's local memory).  This data is not saved or shared with any 3rd parties.  
 
-It is possible for the user of the app to save an image of the tattoo projected onto their face to their phone's image gallery if they wish.  
+It is possible for the user of the app to save an image of the tattoo projected onto their face to their phone's image gallery if they wish or to share the image over social media, but this is entirely up to the discretion of the user.   
 
 Currently, Face Tattoo app does not collect or store any other user data.  The app may request you to access images from your gallery or save images to your gallery if you wish, but the app does not store or save any of these photos anywhere besides on your local device.  
 
